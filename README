@@ -1,0 +1,4 @@
+CUBE_Arduino_Core is ESP8266 stable 2.3.0 Core for Arduino  
+
+This ESP8266 Core version 2.3.0 with modified to Support CUBE Board in Arduino IDE
+The Goal is to Simplify User To Upload New Firmware rather than use Generic ESP8266.
